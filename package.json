@@ -1,0 +1,24 @@
+{
+  "name": "exotel-vapi-webhook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shankargupta202023/exotel-vapi-webhook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shankargupta202023/exotel-vapi-webhook/issues"
+  },
+  "homepage": "https://github.com/Shankargupta202023/exotel-vapi-webhook#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "express": "^5.1.0"
+  }
+}
